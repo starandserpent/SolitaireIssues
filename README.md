@@ -76,6 +76,7 @@ Press **ESC** to toggle the menu bar if it’s hidden.
 
 ## Wiki
 For more help check out our wiki page: https://github.com/starandserpent/SolitaireIssues/wiki
+
 Or join our Discord chat: https://discord.starandserpent.com/
 
 ---
@@ -147,6 +148,7 @@ Jos valikkopalkki on pois päältä, paina **ESC** näppäintä, niin se ilmesty
 
 ## Wiki
 Lisää apua löytyy meidän wiki sivuilta: https://github.com/starandserpent/SolitaireIssues/wiki
+
 Tai Discord chätistä: https://discord.starandserpent.com/
 
 ---
