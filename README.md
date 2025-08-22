@@ -74,6 +74,12 @@ Press **ESC** to toggle the menu bar if it’s hidden.
 
 ---
 
+## Wiki
+For more help check out our wiki page: https://github.com/starandserpent/SolitaireIssues/wiki
+Or join our Discord chat: https://discord.starandserpent.com/
+
+---
+
 ## ❤️ Thank You
 Every bug report and idea helps improve the game.
 We appreciate your time and support!
@@ -136,6 +142,12 @@ Kyllä, tarvitset ilmaisen GitHub-tilin voidaksesi luoda tai kommentoida ilmoitu
 **Mistä löydän pelin versionumeron?**  
 Versionumero näkyy pelin **oikeasta yläkulmassa**, kun peli on käynnissä ja valikkopalkki on näkyvissä.  
 Jos valikkopalkki on pois päältä, paina **ESC** näppäintä, niin se ilmestyy.
+
+---
+
+## Wiki
+Lisää apua löytyy meidän wiki sivuilta: https://github.com/starandserpent/SolitaireIssues/wiki
+Tai Discord chätistä: https://discord.starandserpent.com/
 
 ---
 
