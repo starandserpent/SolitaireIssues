@@ -7,16 +7,17 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the bug / Kuvaile ongelmaa**
+A clear and concise description of what the bug is / Lyhyt kuvaus ongelmasta.
 
-1. What you were doing when the issue occurred
-2. What you expected to happen
-3. What actually happened
-4. Your operating system and game version
+1. What you were doing when the issue occurred / Mitä teit kun ongelma tapahtui
+2. What you expected to happen / Mitä odotit tapahtuvan
+3. What actually happened / Mitä todella tapahtui
+4. Your operating system and game version / Käyttöjärjestelmäsi ja pelin versio
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots / Kuvankaappauksia**
+If applicable, add screenshots to help explain your problem / Mikäli haluat lisää tähän kuvankaappauksia selventämään ongemaasi.
 
-**Additional context**
-Add any other context about the problem here.
+
+**Additional context / Lisäkontekstia**
+Add any other context about the problem here / Vapaamuotoista lisäkontekstia ongelmalle.
