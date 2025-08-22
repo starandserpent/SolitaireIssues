@@ -9,6 +9,10 @@
   This repository is for reporting bugs and sharing feedback.
 </p>
 
+<p align="center">
+  <a href="#english">In English</a> | <a href="#suomi">Suomeksi</a>
+</p>
+
 ---
 
 # English
